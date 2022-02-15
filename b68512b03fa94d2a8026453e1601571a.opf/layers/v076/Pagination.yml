@@ -1239,74 +1239,74 @@ annotations:
     reference: ''
     span:
       start: 235511
-      end: 236810
+      end: 236942
     note_ref: 2fb8379ca03044ff88ffbee54e4bfd52
   174341301d9e4b1da7e732534035567e:
     imgnum: 512
     reference: ''
     span:
-      start: 236812
-      end: 238593
+      start: 236944
+      end: 238725
   50c5cb49b7e84b80991e85c2a8770118:
     imgnum: 513
     reference: ''
     span:
-      start: 238595
-      end: 240445
+      start: 238727
+      end: 240577
   e8fb3bfb684b473f9bf10c99c41e640d:
     imgnum: 514
     reference: ''
     span:
-      start: 240447
-      end: 242238
+      start: 240579
+      end: 242370
   9b0eedbef7a747a28d736335ff570fd1:
     imgnum: 515
     reference: ''
     span:
-      start: 242240
-      end: 243982
+      start: 242372
+      end: 244114
   b28b7020e1bf4d06a09b51a1e09e3f2d:
     imgnum: 516
     reference: ''
     span:
-      start: 243984
-      end: 245827
+      start: 244116
+      end: 245959
   f49f19084bae4920ba3c72a75cf2bde6:
     imgnum: 517
     reference: ''
     span:
-      start: 245829
-      end: 247673
+      start: 245961
+      end: 247805
   e831985cdff0467987e36969d6b703bd:
     imgnum: 518
     reference: ''
     span:
-      start: 247675
-      end: 249409
+      start: 247807
+      end: 249541
   aca565378de144f6b535a7c0dbc6ea84:
     imgnum: 519
     reference: ''
     span:
-      start: 249411
-      end: 251265
+      start: 249543
+      end: 251397
   c5024621d5b44699a7a7e3ff6cab1f61:
     imgnum: 520
     reference: ''
     span:
-      start: 251267
-      end: 252983
+      start: 251399
+      end: 253115
   1a15867ffe08412d97fc681fceb5335d:
     imgnum: 521
     reference: ''
     span:
-      start: 252985
-      end: 254587
+      start: 253117
+      end: 254719
   2fb8379ca03044ff88ffbee54e4bfd52:
     imgnum: 522
     reference: ''
     span:
-      start: 254589
-      end: 256233
+      start: 254721
+      end: 256365
   d2e9b47c701f45f48220660f422b562f:
     imgnum: 523
     reference: ''
